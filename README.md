@@ -24,7 +24,7 @@ The project demonstrates how programming logic and user input can be used to bui
 3. Use the game controls to participate in the race.
 
 ## Live Demo
-Coming soon — GitHub Pages link will be added after deployment.
+https://najam2008.github.io/car-racing-game/
 
 ## Development
 This game was created during my programming learning journey, which includes guided coding exercises and independent projects.
